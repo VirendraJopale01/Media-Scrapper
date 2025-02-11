@@ -1,25 +1,15 @@
-2025-02-07 16:32:44,425 - INFO - Article saved successfully: Indian_med.md
-2025-02-07 16:32:44,587 - INFO - Article saved successfully: Fiji_rugby.md
-2025-02-07 16:34:39,185 - INFO - Article saved successfully: Fiji_rugby.md
-2025-02-07 16:35:47,024 - INFO - Article saved successfully: Fiji_rugby.md
-2025-02-07 16:36:04,683 - INFO - Article saved successfully: Fiji_rugby.md
-2025-02-07 16:38:11,105 - INFO - Article saved successfully: Fiji_rugby.md
-2025-02-07 16:41:39,859 - INFO - Article saved successfully: Belgian_po.md
-2025-02-07 16:41:57,226 - INFO - Article saved successfully: Belgian_po.md
-2025-02-07 16:44:57,273 - INFO - Article saved successfully: Fiji_rugby.md
-2025-02-07 16:45:48,556 - INFO - Article saved successfully: Fiji_rugby.md
-2025-02-07 16:45:48,732 - INFO - Article saved successfully: 'People_se.md
-2025-02-07 16:47:37,830 - INFO - Article saved successfully: Indian_med.md
-2025-02-07 16:47:38,083 - INFO - Article saved successfully: Fiji_rugby.md
-2025-02-07 16:47:38,277 - INFO - Article saved successfully: Belgian_po.md
-2025-02-10 14:22:27,587 - INFO - Article saved successfully: Indian_med.md
-2025-02-10 14:22:48,246 - INFO - Article saved successfully: Indian_med.md
-2025-02-10 14:23:05,142 - INFO - Article saved successfully: Indian_med.md
-2025-02-10 18:11:14,513 - INFO - Article saved successfully: Belgian_po.md
-2025-02-10 18:21:51,233 - INFO - Article saved successfully: Belgian_po.md
-2025-02-10 18:39:22,413 - INFO - Article saved successfully: Fiji_rugby.md
-2025-02-10 18:40:40,547 - INFO - Article saved successfully: Belgian_po.md
-2025-02-10 18:40:40,549 - INFO - Article saved successfully: Fiji_rugby.md
-2025-02-10 18:40:40,550 - INFO - Article saved successfully: Indian_med.md
-2025-02-10 18:40:40,882 - INFO - Article saved successfully: 404Page_ca.md
-2025-02-10 18:41:51,982 - INFO - Article saved successfully: 'People_se.md
+2025-02-11 11:48:19,100 - ERROR - Error while saving article to file: [Errno 2] No such file or directory: 'C:\\Users\\VirendraJopale\\OneDrive - Emergys\\Desktop\\Assign_Media\\markdown\\Fiji_rugby.md'
+2025-02-11 11:48:19,100 - INFO - Article saved successfully: Fiji_rugby.md
+2025-02-11 11:48:21,788 - ERROR - Error while saving article to file: [Errno 2] No such file or directory: 'C:\\Users\\VirendraJopale\\OneDrive - Emergys\\Desktop\\Assign_Media\\markdown\\Indian_med.md'
+2025-02-11 11:48:21,788 - INFO - Article saved successfully: Indian_med.md
+2025-02-11 11:51:26,908 - INFO - Article saved successfully: Fiji_rugby.md
+2025-02-11 11:52:57,716 - INFO - Article saved successfully: Fiji_rugby.md
+2025-02-11 11:52:57,717 - INFO - Article saved successfully: Indian_med.md
+2025-02-11 11:52:58,288 - INFO - Article saved successfully: Belgian_po.md
+2025-02-11 11:55:11,592 - ERROR - Error while saving article to file: [Errno 2] No such file or directory: '..\\markdown\\Indian_med.md'
+2025-02-11 11:55:11,593 - INFO - Article saved successfully: Indian_med.md
+2025-02-11 11:57:11,972 - INFO - Article saved successfully: Belgian_po.md
+2025-02-11 12:12:38,221 - INFO - Article saved successfully: DeepSeek_h.md
+2025-02-11 12:12:38,224 - INFO - Article saved successfully: Musk-led_g.md
+2025-02-11 12:12:38,224 - INFO - Article saved successfully: Indian_med.md
+2025-02-11 12:12:38,410 - INFO - Article saved successfully: MP_behind_.md

@@ -22,7 +22,13 @@ async def save_article_to_markdown(title, body, filename):
         bool: True if the article was saved successfully, False otherwise.
     """
     #  Complete path of markdown file
-    completePath = os.path.join('C:\\Users\\VirendraJopale\\OneDrive - Emergys\\Desktop\\Assign_Media\\markdown', filename)
+    folder_path = os.path.join(os.getcwd(), 'markdown')
+
+    # Ensure the 'markdown' folder exists, create if it doesn't
+    os.makedirs(folder_path, exist_ok=True)
+
+    # Complete path of markdown file
+    completePath = os.path.join(folder_path, filename)
     try:
         #  Open file in write mode
         async with aiofiles.open(completePath, 'w', encoding='utf-8') as file:
